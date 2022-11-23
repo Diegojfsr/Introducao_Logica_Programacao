@@ -32,8 +32,10 @@
  <li> Aula 07.C - Lógica e Solução de Problemas. Álgebra Booleana / Lógica Matemática. <a href="https://"> Acessar </a></li>
  <li> Aula 07.D - Lógica e Solução de Problemas. Operadores. <a href="https://"> Acessar </a></li>
  <li> Aula 07.E - Lógica e Solução de Problemas. Tabelas Verdade Usando Operadores Lógicos. <a href="https://"> Acessar </a></li>
- <li> Aula 08.A - Aula 08 - Algoritmos 1. <a href="https://"> Acessar </a></li>
- <li> Aula 08.B - Aula 08 - Algoritmos 2. <a href="https://"> Acessar </a></li>
+ <li> Aula 08.A - Algoritmos 1. <a href="https://"> Acessar </a></li>
+ <li> Aula 08.B - Algoritmos 2. <a href="https://"> Acessar </a></li>
+ <li> Aula 09.A - Resolução de Problemas 1. <a href="https://"> Acessar </a></li>
+ <li> Aula 09.B - Resolução de Problemas 2. <a href="https://"> Acessar </a></li>
    
 
 </ul>
