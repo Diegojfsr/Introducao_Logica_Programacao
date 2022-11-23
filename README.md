@@ -30,6 +30,8 @@
  <li> Aula 07.A - Lógica e Solução de Problemas. Lógica Formal. <a href="https://"> Acessar </a></li>
  <li> Aula 07.B - Lógica e Solução de Problemas. Princípios da Lógica Formal. <a href="https://"> Acessar </a></li>
  <li> Aula 07.C - Lógica e Solução de Problemas. Álgebra Booleana / Lógica Matemática. <a href="https://"> Acessar </a></li>
+ <li> Aula 07.D - Lógica e Solução de Problemas. Operadores. <a href="https://"> Acessar </a></li>
+ <li> Aula 07.E - Lógica e Solução de Problemas. Tabelas Verdade Usando Operadores Lógicos. <a href="https://"> Acessar </a></li>
    
 
 </ul>
