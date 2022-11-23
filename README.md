@@ -28,6 +28,8 @@
  <li> Aula 05.E - Software e Linguagens. Linguagens Compiladas x Interpletadas. <a href="https://"> Acessar </a></li>
  <li> Aula 06. - Hardware / Software. <a href="https://"> Acessar </a></li>
  <li> Aula 07.A - Lógica e Solução de Problemas. Lógica Formal. <a href="https://"> Acessar </a></li>
+ <li> Aula 07.B - Lógica e Solução de Problemas. Princípios da Lógica Formal. <a href="https://"> Acessar </a></li>
+ <li> Aula 07.C - Lógica e Solução de Problemas. Álgebra Booleana / Lógica Matemática. <a href="https://"> Acessar </a></li>
    
 
 </ul>
