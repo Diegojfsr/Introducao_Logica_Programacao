@@ -1,5 +1,3 @@
-# Introducao_Logica_Programacao
-Repositorio criado para documentar todo o meu passo a passo, projetos e codigos desenvolvidos durante o programa de formação e recrutamento dos novos talentos em tecnologia, pela Capgemini.
 
 
 <h1> Sejam bem-vindos!!! </br>
@@ -21,6 +19,8 @@ Repositorio criado para documentar todo o meu passo a passo, projetos e codigos 
    <li> Aula 03.B - Uma Breve História do Computador. A lógica no mundo 1. <a href="https://"> Acessar </a></li>
    <li> Aula 03.C - Uma Breve História do Computador. A lógica no mundo 2. <a href="https://"> Acessar </a></li>
    <li> Aula 03.D - Uma Breve História do Computador. Hardware e Software. <a href="https://"> Acessar </a></li>
+   <li> Aula 04.A - Hardware 1. <a href="https://"> Acessar </a></li>
+   <li> Aula 04.B - Hardware 2. <a href="https://"> Acessar </a></li>
    
 
  </ul>
