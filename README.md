@@ -12,20 +12,22 @@
 
 
 <h2 dir="auto"> 🚦 Guia </h2>
- <ul dir="auto">
-   <li> Aula 01 - Boas vindas. <a href="https://"> Acessar </a></li>
-   <li> Aula 02 - Apresentação do Conteúdo. <a href="https://"> Acessar </a></li>
-   <li> Aula 03.A - Uma Breve História do Computador. Um breve Historico do computador. <a href="https://"> Acessar </a></li>
-   <li> Aula 03.B - Uma Breve História do Computador. A lógica no mundo 1. <a href="https://"> Acessar </a></li>
-   <li> Aula 03.C - Uma Breve História do Computador. A lógica no mundo 2. <a href="https://"> Acessar </a></li>
-   <li> Aula 03.D - Uma Breve História do Computador. Hardware e Software. <a href="https://"> Acessar </a></li>
-   <li> Aula 04.A - Hardware 1. <a href="https://"> Acessar </a></li>
-   <li> Aula 04.B - Hardware 2. <a href="https://"> Acessar </a></li>
-   <li> Aula 05.A - Software e Linguagens. Tipos de Software. <a href="https://"> Acessar </a></li>
-   <li> Aula 05.B - Software e Linguagens. Linguagens de Programação. <a href="https://"> Acessar </a></li>
-   <li> Aula 05.C - Software e Linguagens. Linguagen de Máquina, asseembly e assembler. <a href="https://"> Acessar </a></li>
-   <li> Aula 05.D - Software e Linguagens. Linguagens Interpletadas. <a href="https://"> Acessar </a></li>
-   <li> Aula 05.E - Software e Linguagens. Linguagens Compiladas x Interpletadas. <a href="https://"> Acessar </a></li>
+<ul dir="auto">
+ <li> Aula 01 - Boas vindas. <a href="https://"> Acessar </a></li>
+ <li> Aula 02 - Apresentação do Conteúdo. <a href="https://"> Acessar </a></li>
+ <li> Aula 03.A - Uma Breve História do Computador. Um breve Historico do computador. <a href="https://"> Acessar </a></li>
+ <li> Aula 03.B - Uma Breve História do Computador. A lógica no mundo 1. <a href="https://"> Acessar </a></li>
+ <li> Aula 03.C - Uma Breve História do Computador. A lógica no mundo 2. <a href="https://"> Acessar </a></li>
+ <li> Aula 03.D - Uma Breve História do Computador. Hardware e Software. <a href="https://"> Acessar </a></li>
+ <li> Aula 04.A - Hardware 1. <a href="https://"> Acessar </a></li>
+ <li> Aula 04.B - Hardware 2. <a href="https://"> Acessar </a></li>
+ <li> Aula 05.A - Software e Linguagens. Tipos de Software. <a href="https://"> Acessar </a></li>
+ <li> Aula 05.B - Software e Linguagens. Linguagens de Programação. <a href="https://"> Acessar </a></li>
+ <li> Aula 05.C - Software e Linguagens. Linguagen de Máquina, asseembly e assembler. <a href="https://"> Acessar </a></li>
+ <li> Aula 05.D - Software e Linguagens. Linguagens Interpletadas. <a href="https://"> Acessar </a></li>
+ <li> Aula 05.E - Software e Linguagens. Linguagens Compiladas x Interpletadas. <a href="https://"> Acessar </a></li>
+ <li> Aula 06. - Hardware / Software. <a href="https://"> Acessar </a></li>
+ <li> Aula 07.A - Lógica e Solução de Problemas. Lógica Formal. <a href="https://"> Acessar </a></li>
    
 
- </ul>
+</ul>
