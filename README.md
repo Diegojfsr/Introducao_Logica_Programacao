@@ -15,7 +15,7 @@
 <ul dir="auto">
  <li> Aula 01 - Boas vindas. <a href="https://"> Acessar </a></li>
  <li> Aula 02 - Apresentação do Conteúdo. <a href="https://"> Acessar </a></li>
- <li> Aula 03.A - Uma Breve História do Computador. Um breve Historico do computador. <a href="https://"> Acessar </a></li>
+ <li> Aula 03.A - Uma Breve História do Computador. Um breve Histórico do computador. <a href="https://"> Acessar </a></li>
  <li> Aula 03.B - Uma Breve História do Computador. A lógica no mundo 1. <a href="https://"> Acessar </a></li>
  <li> Aula 03.C - Uma Breve História do Computador. A lógica no mundo 2. <a href="https://"> Acessar </a></li>
  <li> Aula 03.D - Uma Breve História do Computador. Hardware e Software. <a href="https://"> Acessar </a></li>
