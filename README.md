@@ -21,6 +21,11 @@
    <li> Aula 03.D - Uma Breve História do Computador. Hardware e Software. <a href="https://"> Acessar </a></li>
    <li> Aula 04.A - Hardware 1. <a href="https://"> Acessar </a></li>
    <li> Aula 04.B - Hardware 2. <a href="https://"> Acessar </a></li>
+   <li> Aula 05.A - Software e Linguagens. Tipos de Software. <a href="https://"> Acessar </a></li>
+   <li> Aula 05.B - Software e Linguagens. Linguagens de Programação. <a href="https://"> Acessar </a></li>
+   <li> Aula 05.C - Software e Linguagens. Linguagen de Máquina, asseembly e assembler. <a href="https://"> Acessar </a></li>
+   <li> Aula 05.D - Software e Linguagens. Linguagens Interpletadas. <a href="https://"> Acessar </a></li>
+   <li> Aula 05.E - Software e Linguagens. Linguagens Compiladas x Interpletadas. <a href="https://"> Acessar </a></li>
    
 
  </ul>
