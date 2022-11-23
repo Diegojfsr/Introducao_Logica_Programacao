@@ -36,6 +36,8 @@
  <li> Aula 08.B - Algoritmos 2. <a href="https://"> Acessar </a></li>
  <li> Aula 09.A - Resolução de Problemas 1. <a href="https://"> Acessar </a></li>
  <li> Aula 09.B - Resolução de Problemas 2. <a href="https://"> Acessar </a></li>
+ <li> Aula 010.A - Representar um Algoritmo 1. <a href="https://"> Acessar </a></li>
+ <li> Aula 010.B - Representar um Algoritmo 2. <a href="https://"> Acessar </a></li>
    
 
 </ul>
